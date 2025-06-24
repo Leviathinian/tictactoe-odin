@@ -1,1 +1,2 @@
 # tictactoe-odin
+This is a digital version of tic-tac-toe. The squares on the grid can be clicked to make the player's mark. The player is automatically switched once a valid selection is made. When a player wins or a tie is reached, the game is stopped and the result is announced.
